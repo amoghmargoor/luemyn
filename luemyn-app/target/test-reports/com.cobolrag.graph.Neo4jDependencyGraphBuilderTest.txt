@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cobolrag.graph.Neo4jDependencyGraphBuilderTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.703 s - in com.cobolrag.graph.Neo4jDependencyGraphBuilderTest

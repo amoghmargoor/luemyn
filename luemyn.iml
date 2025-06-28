@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/proleap-cobol/proleap-cobol-analysis/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proleap-cobol/proleap-cobol-api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proleap-cobol/proleap-cobol-app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proleap-cobol/proleap-cobol-commons/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proleap-cobol/proleap-cobol-interpreter/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proleap-cobol/proleap-cobol-transform/src/main/java" isTestSource="false" />
+    </content>
+  </component>
+</module>
